@@ -4,7 +4,8 @@ dict = {
     "major": "B.Tech",
     4: "yes"
 }
-
+# order maintained now
+# mutable
 print(dict)
 print(dict["name"])
 print(dict[4])
